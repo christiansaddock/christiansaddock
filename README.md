@@ -5,8 +5,8 @@
 - 🕵️‍♂️ Hoje trabalho como QA
 - 🌱 Estou estudando Cypress
 - 👯 Estou mentorando jovens QAs e devs no inicio de suas carreiras
-- 🤔 To precisando aprimorar meu inglês
-- 💬 Meu twtiter é @christian_sa
+- 🤔 Precisando aprimorar meu inglês
+- 💬 Meu twiter é @christian_sa
 - 📫 Meu email é christian_sa@hotmail.com
 - Aqui você acha meu perfil profissional no <a href="https://www.linkedin.com/in/christiansa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     ##
@@ -28,7 +28,7 @@
   <img align="center" alt="Chris-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/christiansaddock/christiansaddock/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Chris-QA" height="300" width="400" src="https://i.pinimg.com/originals/eb/3c/9a/eb3c9a4f88dbbb5f67cc3998e77aef48.gif">       
