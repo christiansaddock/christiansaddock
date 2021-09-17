@@ -28,7 +28,7 @@
   <img align="center" alt="Chris-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/christiansaddock/christiansaddock/raw/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Chris-QA" height="300" width="400" src="https://i.pinimg.com/originals/eb/3c/9a/eb3c9a4f88dbbb5f67cc3998e77aef48.gif">       
