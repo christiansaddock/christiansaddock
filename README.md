@@ -1,14 +1,13 @@
 ### Christian Saddock aqui 👋
 
-**christiansaddock/christiansaddock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🕵️‍♂️ Hoje trabalho como QA
 - 🌱 Estou estudando Cypress
 - 👯 Estou mentorando jovens QAs e devs no inicio de suas carreiras
 - 🤔 Precisando aprimorar meu inglês
-- 💬 Meu twiter é @christian_sa
-- 📫 Meu email é christian_sa@hotmail.com
-- Aqui você acha meu perfil profissional no <a href="https://www.linkedin.com/in/christiansa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 📫 Meu email é christian_sa@hotmail.com  
+- 💬 Esse é meu <a href="https://twitter.com/christian_sa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+- 👔 Aqui você acha meu perfil profissional no <a href="https://www.linkedin.com/in/christiansa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 💡 Se quiser ler meus posts, corre lá no <a href="https://christiansaddock.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
     ##
  <div>
   <a href="https://github.com/christiansaddock">
