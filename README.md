@@ -1,7 +1,8 @@
 ### Christian Saddock aqui 👋
 
-- 🕵️‍♂️ Hoje trabalho como QA
-- 🌱 Estou estudando Cypress
+- 🕵️‍♂️ Hoje trabalho como Gestor de desenvolvimento
+- Tenho 15 anos de experiência como QA
+- 🌱 Estou sempre estudando, a ultima aventura foi com cypress aplicado para testes em API
 - 👯 Estou mentorando jovens QAs e devs no inicio de suas carreiras
 - 🤔 Precisando aprimorar meu inglês
 - 📫 Meu email é christian_sa@hotmail.com  
