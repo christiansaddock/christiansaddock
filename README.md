@@ -1,7 +1,7 @@
 ### Christian Saddock aqui 👋
 
 - 🕵️‍♂️ Hoje trabalho como Gestor de desenvolvimento
-- Tenho 15 anos de experiência como QA
+- ⏭️ Tenho 15 anos de experiência como QA
 - 🌱 Estou sempre estudando, a ultima aventura foi com cypress aplicado para testes em API
 - 👯 Estou mentorando jovens QAs e devs no inicio de suas carreiras
 - 🤔 Precisando aprimorar meu inglês
